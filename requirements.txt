@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-community
+langchain-tavily
+langchain-groq
+psycopg
+psycopg_pool
+python-dotenv
+tavily-python
+requests
+langgraph-checkpoint-postgres
+airportsdata
+pycountry
+fastapi
+uvicorn
+streamlit
+jinja2
